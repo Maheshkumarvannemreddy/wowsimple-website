@@ -1,0 +1,28 @@
+#collapsibleNavbar{
+  justify-content:right;
+  padding: 0px 0px 0px 60px;
+}
+
+.navbar-brand{
+  font-family: 'Kolker Brush', cursive;
+  font-size: 30px;
+  color: aliceblue;
+}
+.nav-link{
+color:aliceblue;
+}
+
+.navbar{
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+background-color:#588157;
+height: 60px;
+display:flexbox;
+}
+button{
+  border-radius: 10px;
+  background-color:#fff;
+  color:#000;
+}
